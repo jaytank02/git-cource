@@ -1,2 +1,2 @@
 git status : Check Status Of File.
-git remote -v : Check Of Your Origine 
+git remote -v : Check Of Your Origine.
